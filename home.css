@@ -1,0 +1,8 @@
+.op
+{
+    align-items: center;
+    color: white;
+    top: 50%;
+transform: translateY(-50%);
+text-align: center;
+}
